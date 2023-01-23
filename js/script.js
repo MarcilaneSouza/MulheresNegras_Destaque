@@ -19,16 +19,15 @@ function carregaDicionario() {
     alert(biografias);
   
   }
-  
   carregaDicionario();  
+
+
   /*
 
   function carregaDicionario() {
-
     var biografias = {
-  
+
       bio01: {
-  
         nome: "Marielle Franco",
   
         imagem: "https://i.postimg.cc/8fS8KSGX/marielle-franco.png",
@@ -40,11 +39,9 @@ function carregaDicionario() {
         citacao:
   
           "Quantos mais vão precisar morrer para que essa guerra aos pobres acabe?",
-  
       },
   
       bio02: {
-  
         nome: "Lélia Gonzalez",
   
         imagem: "https://i.postimg.cc/2q1f3GTG/lelia-gonzalez.png",
@@ -60,7 +57,6 @@ function carregaDicionario() {
       },
   
       bio03: {
-  
         nome: "Angela Davis",
   
         imagem: "https://i.postimg.cc/LJ6SF21r/angela-davis.png",
@@ -80,7 +76,6 @@ function carregaDicionario() {
       },
   
       bio04: {
-  
         nome: "Conceição Evaristo",
   
         imagem: "https://i.postimg.cc/Z9XzNNMS/conceicao-evaristo.png",
@@ -96,7 +91,6 @@ function carregaDicionario() {
       },
   
       bio05: {
-  
         nome: "Carolina de Jesus",
   
         imagem: "https://i.postimg.cc/Fdc5VKMJ/carolina-de-jesus.png",
@@ -116,7 +110,6 @@ function carregaDicionario() {
       },
   
       bio06: {
-  
         nome: "Rosa Parks",
   
         imagem: "https://i.postimg.cc/K1q2Zw74/rosa-parks.png",
@@ -137,7 +130,5 @@ function carregaDicionario() {
   
   }
   
-  
   carregaDicionario();
-  
   Gabarito Visual:*/
